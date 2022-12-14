@@ -7,4 +7,4 @@ As pastas deste repositório contém os principais estudos da linguagem Javascri
 - Variáveis;
 - Funções;
 - Arrays;
-- Esc
+- Escopo global e local.
