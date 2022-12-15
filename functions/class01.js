@@ -1,7 +1,7 @@
-function sum(numberOne, numberTwo) {
+const sum = function (numberOne, numberTwo) {
   return numberOne + numberTwo;
-}
+};
 
-const totalSum = sum(10, 20);
+result = sum(2, 3);
 
-console.log(totalSum);
+console.log(result);
