@@ -5,6 +5,7 @@ As pastas deste repositório contém os principais estudos da linguagem Javascri
 ## Conteúdos
 
 - Variáveis;
-- Funções;
+- Funções, parâmetros e argumentos;
+- Arrow functions;
 - Arrays;
 - Escopo global e local.
