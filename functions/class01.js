@@ -1,7 +1,6 @@
 const sum = function (numberOne, numberTwo) {
-  return numberOne + numberTwo;
+  console.log(numberOne + numberTwo);
 };
 
-result = sum(2, 3);
-
-console.log(result);
+sum(2, 3);
+sum(5, 8);
